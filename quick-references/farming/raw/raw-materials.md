@@ -27,7 +27,8 @@ Distance from __Sol__: `???`
 
 ### C 5 A
 #### Technetium
-- `3.5500`, `111.5415`
+- `3.5487`, `111.5446`
+	- *Exact Coordinates sit between two large forests*
 
 ---
 
