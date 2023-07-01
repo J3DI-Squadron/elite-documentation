@@ -18,6 +18,13 @@ Distance from __Sol__: `???`
 #### Telluruim
 - `-17.6769`, `-55.1800`
 
+### C 4 A
+#### Selenium
+> __Warning__<br />
+> Even though __Selenium__ is a __Rare (Grade 4)__ material, it is *not* found in the same "Crystiline Forests" as the other rare materials in this system.
+- `???`, `???`
+	- Located near __Geological Sites__ (according to Shiney)
+
 ### C 5 A
 #### Technetium
 - `3.5500`, `111.5415`
