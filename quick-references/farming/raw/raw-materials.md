@@ -16,7 +16,7 @@ Distance from __Sol__: `???`
 
 ### C 3 B
 #### Telluruim
-- `-17.6769,`, `-55.1800`
+- `-17.6769`, `-55.1800`
 
 ### C 5 A
 #### Technetium
