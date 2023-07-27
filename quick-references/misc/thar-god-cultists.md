@@ -20,7 +20,7 @@ Both the __Sanctum__ and the __Prophet__ are abandoned settlements that previous
 
 The Alliance then offered the cultists amnesty if they agreed to a reasonable amount of government oversight and the Federation arranged to have them moved to Alliance territory aboard a Megaship named the Dedicant. Then the Dedicant abruptly jumped to hyperspace ahead of schedule and seem to have vanished without a trace.
 
-For the full story, you can find the recent news regarding the cult and their general disappearance aboard the Dedicant in GalNet News (in-game) in the form of audio logs. As for the audio logs, they seem to hint at what may have happened, though in an extremely vague manner.
+For the full story, you can find the not-so-recent news regarding the cult and their general disappearance aboard the Dedicant in GalNet News (in-game), and play them like audio books in your Playlist. As for the audio logs you would collect, they seem to hint at what may have happened, though in an extremely vague manner.
 
 ---
 
